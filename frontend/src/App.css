@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Poppins:wght@200;300;400;500;600&family=Roboto:wght@100;300;400;500&display=swap');
+
+body{
+  font-family: 'poppins', cursive;
+}
